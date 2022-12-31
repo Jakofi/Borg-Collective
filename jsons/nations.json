@@ -4,7 +4,7 @@
         "leaderName": "Borg Queen",
         "adjective": ["..."],
         "startBias": ["Tundra"],
-        "preferredVictoryType":"Domination"
+        "preferredVictoryType":"Domination",
         
         "startIntroPart1": "...",
         "startIntroPart2": "...",
@@ -14,9 +14,9 @@
         "defeated": "The Borg Collective has failed to find perfection. We hope that you will find it",
         "introduction": "I am the Borg Queen. I am the Borg Collective.",
         
-        "neutralHello": "We are the Borg"
-        "hateHello": "You will be assimilated"
-        "tradeRequest": "..."
+        "neutralHello": "We are the Borg",
+        "hateHello": "You will be assimilated",
+        "tradeRequest": "...",
         "outerColor": [116, 67, 5],
         "innerColor": [219, 219, 126],
         "favoredReligion": "Islam",
