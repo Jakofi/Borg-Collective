@@ -1,0 +1,27 @@
+[
+{
+"name": "Borg Collective",
+        "leaderName": "Borg Queen",
+        "adjective": ["..."],
+        "startBias": ["Tundra"],
+        "preferredVictoryType":"Domination"
+        
+        "startIntroPart1": "...",
+        "startIntroPart2": "...",
+
+        "declaringWar": "We are the Borg. We will assimilate your technological knowledge. Your culture will adapt to service us. Resistance is futile"
+        "attacked": "You have made the wrong decision. We will assimilate you. Resistance is futile"
+        "defeated": "The Borg Collective has failed to find perfection. We hope that you will find it"
+        "introduction": "I am the Borg Queen from Borg Collective."
+        
+        "neutralHello": "We are the Borg"
+        "hateHello": "You will be assimilated"
+        "tradeRequest": "..."
+        "outerColor": [116, 67, 5],
+        "innerColor": [219, 219, 126],
+        "style": "",
+        "uniqueName": "Unimatrix"
+        "uniques": ["[-10]% Culture cost of adopting new Policies", "[-10]% Unhapiness from population [in Capital]"]
+        "cities": ["??????"]
+}
+]

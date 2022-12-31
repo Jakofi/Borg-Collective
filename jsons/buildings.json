@@ -1,0 +1,20 @@
+[
+  { //Borg Collective's
+    "name": "Borg Queen's Palace"
+    "replaces": "Palace"
+    "maintenance": 0
+    "production": 5
+    "gold": 5
+    "science": 5
+    "culture": 2
+    "uniqueTo": "Borg Collective"
+  },
+  {
+    "name": "Nanoprobe Facility"
+    "uniqueTo": "Borg Collective"
+    "maintenance": 3
+    "requiredTech": "Pharmaceuticas"
+    "requiredBuilding": "Medical Lab"
+    "uniques": ["Can only be built [in Capital]", "Unsellable", "All newly-trained relevant units [in this city] recieve the [Borg Drone] promotion"]
+}
+]  

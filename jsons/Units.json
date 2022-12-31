@@ -1,0 +1,22 @@
+[
+{
+  "name": "Tactical Drone"
+  "unitType": "Melee"
+  "movement": 3
+  "cost": 400
+  "uniqueTo": "Borg Collective"
+  "replaces": "Mechanized Infantry"
+  "strength": 65
+  "uniques": ["No movement cost to pillage"]
+  "requiredTech": "Mobile Tactics"
+  "attackSound": "shot"
+},
+{
+  "name": "Borg Queen"
+  "uniqueTo": "Borg Collective"
+  "unitType": "Civilian"
+  "replaces": "Settler"
+  "movement": 2
+  "uniques": ["Can found a [City]", "Unbuildable", "Uncapturable", "Limited to [1] per civilization"]
+}
+]

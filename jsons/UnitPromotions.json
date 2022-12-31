@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Borg Drone"
+    "uniques": ["[30]% Strength <when attacking>"]
+    "Only availbe <if [Nanoprobe Facility] is constructed>"
+}
+{
+  "name": "Adaptive Nanoprobes"
+  "uniques": ["[+20]% Strength <when defending> <vs [Ranged] units>", "[+20]% Strength <when defending> <vs [Melee] units"] 
+  "prerequisites": ["Borg Drone"],
+}
+{
+  "name": "Assimilation Procedures"
+  "uniques": ["[+25]% Strength <when attacking> <vs [Melee] units>", "[+25]% Strength <when attacking> <vs [Ranged] units>"
+  "prerequisites": ["Borg Drone"]
+}
+{
+  "name": "Long Range Scan"
+  "uniques": ["[+2] Vision Range"]
+  "prerequisites": ["Borg Drone"]
+}
+{
+  "name": "Collective Network"
+  "uniques": ["[+25]% Strength <when attacking>"]
+  "prerequisites": ["Assimilation Procedures"]
+}
+{
+  "name": "Resistance Is Futile"
+  "uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles"
+  "prerequisites": ["Collective Network"]
+
+}
+{
+  "name": "Medical Drones"
+  "uniques": ["Unit will heal every turn, even if it performs an action"]
+  "prerequisites": ["Adaptive Shielding"]
+}
+{
+  "name": "Adaptive Shielding"
+  "uniques": ["[+40]% Strength <when defending> <vs [Ranged] units>" "[+20]% Strength <when defending> <vs [Melee] units>"]
+  "prerequisites": ["Adaptive Nanoprobes"]
+}
+]
+  
