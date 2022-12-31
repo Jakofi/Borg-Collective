@@ -10,13 +10,5 @@
   "uniques": ["No movement cost to pillage"],
   "requiredTech": "Mobile Tactics",
   "attackSound": "shot"
-},
-{
-  "name": "Borg Queen",
-  "uniqueTo": "Borg Collective",
-  "unitType": "Civilian",
-  "replaces": "Settler",
-  "movement": 2,
-  "uniques": ["Founds a new city"]
 }
 ]
