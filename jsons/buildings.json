@@ -18,6 +18,6 @@
     "maintenance": 3,
     "cost": 600,
     "hurryCostModifier": 600,
-    "uniques": ["Can only be built [in Capital]", "Unsellable", "All newly-trained relevant units [in this city] recieve the [Borg Drone] promotion", "Destroyed when the city is captured", "[30]% Food is carried over after population increases [in this city]"]
+    "uniques": ["Unsellable", "All newly-trained relevant units [in this city] recieve the [Borg Drone] promotion", "Destroyed when the city is captured", "[30]% Food is carried over after population increases [in this city]"]
 }
 ]  
