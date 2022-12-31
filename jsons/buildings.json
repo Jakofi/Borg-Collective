@@ -1,20 +1,23 @@
 [
-  { //Borg Collective's
-    "name": "Borg Queen's Palace"
-    "replaces": "Palace"
-    "maintenance": 0
-    "production": 5
-    "gold": 5
-    "science": 5
-    "culture": 2
-    "uniqueTo": "Borg Collective"
+  { 
+    "name": "Borg Queen's Palace",
+    "replaces": "Palace",
+    "production": 5,
+    "gold": 5,
+    "science": 5,
+    "culture": 2,
+    "cityStrength": 3,
+    "cost": 1,
+    "uniqueTo": "Borg Collective",
+    "uniques": ["Indicates the capital city"]
   },
   {
-    "name": "Nanoprobe Facility"
-    "uniqueTo": "Borg Collective"
-    "maintenance": 3
-    "requiredTech": "Pharmaceuticas"
-    "requiredBuilding": "Medical Lab"
-    "uniques": ["Can only be built [in Capital]", "Unsellable", "All newly-trained relevant units [in this city] recieve the [Borg Drone] promotion"]
+    "name": "Nanoprobe Facility",
+    "replaces": "Medical Lab",
+    "uniqueTo": "Borg Collective",
+    "maintenance": 3,
+    "cost": 600,
+    "hurryCostModifier": 600,
+    "uniques": ["Can only be built [in Capital]", "Unsellable", "All newly-trained relevant units [in this city] recieve the [Borg Drone] promotion", "Destroyed when the city is captured", "[30]% Food is carried over after population increases [in this city]"]
 }
 ]  
