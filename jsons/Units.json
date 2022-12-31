@@ -17,6 +17,6 @@
   "unitType": "Civilian",
   "replaces": "Settler",
   "movement": 2,
-  "uniques": [["Founds a new city"], "Unbuildable", "Uncapturable", "Limited to [1] per civilization"]
+  "uniques": ["Founds a new city", "Unbuildable", "Uncapturable", "Limited to [1] per civilization"]
 }
 ]
