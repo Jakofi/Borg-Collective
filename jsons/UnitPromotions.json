@@ -2,8 +2,7 @@
   {
     "name": "Borg Drone",
     "unitTypes": ["Gunpowder","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
-    "uniques": ["[30]% Strength <when attacking>"],
-    "Only availbe <if [Nanoprobe Facility] is constructed>"
+    "uniques": ["[30]% Strength <when attacking>","Only availbe <if [Nanoprobe Facility] is constructed>"]
 },
 {
   "name": "Adaptive Nanoprobes",
@@ -43,7 +42,7 @@
 },
 {
   "name": "Adaptive Shielding",
-  "uniques": ["[+40]% Strength <when defending> <vs [Ranged] units>" "[+20]% Strength <when defending> <vs [Melee] units>"],
+  "uniques": ["[+40]% Strength <when defending> <vs [Ranged] units>", "[+20]% Strength <when defending> <vs [Melee] units>"],
   "unitTypes": ["Gunpowder","Ranged Gunpowder","Armored","Melee Water","Ranged Water","Submarine"],
   "prerequisites": ["Adaptive Nanoprobes"]
 }
