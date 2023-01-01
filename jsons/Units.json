@@ -6,7 +6,7 @@
   "cost": 400,
   "uniqueTo": "Borg Collective",
   "replaces": "Mechanized Infantry",
-  "strength": 65,
+  "strength": 95,
   "uniques": ["No movement cost to pillage"],
   "requiredTech": "Mobile Tactics",
   "attackSound": "shot"
