@@ -4,49 +4,49 @@ size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Adaptive nanoprobes - icon
+Adaptive Nanoprobes
   rotate: false
   xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Assimilation procedures - icon
+Assimilation Procedures
   rotate: false
   xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Borg collective - icon
+Collective Network
   rotate: false
   xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Borg drone - icon
+Borg Drone
   rotate: false
   xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Borg nation - icon
+Borg Collective
   rotate: false
   xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Long range scan - icon
+Long Range Scan
   rotate: false
   xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Resistance is futile - icon
+Resistance Is Futile
   rotate: false
   xy: 652, 4
   size: 100, 100
