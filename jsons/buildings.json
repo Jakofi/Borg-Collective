@@ -15,7 +15,7 @@
     "name": "Nanoprobe Facility",
     "replaces": "Medical Lab",
     "uniqueTo": "Borg Collective",
-    "maintenance": 3,
+    "maintenance": 2,
     "cost": 600,
     "hurryCostModifier": 600,
     "uniques": ["Unsellable", "All newly-trained relevant units [in this city] recieve the [Borg Drone] promotion", "Destroyed when the city is captured", "[30]% Food is carried over after population increases [in this city]"]
