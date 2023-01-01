@@ -4,45 +4,45 @@ size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Images/UnitPromotionIcons/Adaptive Nanoprobes
+UnitPromotionIcons/Adaptive Nanoprobes
   rotate: false
   xy: 1155, 496
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
-Images/UnitPromotionIcons/Assimilation Procedures
+UnitPromotionIcons/Assimilation Procedures
   xy: 1155, 496
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
-Images/UnitPromotionIcons/Collective Network
+UnitPromotionIcons/Collective Network
   xy: 1155, 496
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
-Images/UnitPromotionIcons/Borg Drone
+UnitPromotionIcons/Borg Drone
   xy: 1155, 496
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
-Images/NationIcons/Borg Collective
+NationIcons/Borg Collective
 xy: 1155, 496
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
-Images/UnitPromotionIcons/Long Range Scan
+UnitPromotionIcons/Long Range Scan
   rotate: false
   xy: 1155, 496
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
-Images/UnitPromotionIcons/Resistance Is Futile
+UnitPromotionIcons/Resistance Is Futile
   rotate: false
   xy: 1155, 496
   size: 77, 79
