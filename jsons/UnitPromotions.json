@@ -1,67 +1,67 @@
 [
   {
     "name": "Borg Drone",
-    "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+    "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
     "uniques": ["[+30]% Strength <when attacking>","Only availbe <if [Nanoprobe Facility] is constructed>"]
 },
   {
   "name": "Long Range Scan",
   "uniques": ["[+2] Sight"],
-  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
   "prerequisites": ["Borg Drone"]
 },
   { 
   "name": "Tactical Retreat",
   "uniques": ["May withdraw before melee ([20]%)"],
-  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
   "prerequisites": ["Long Range Scan"]
 },
 {
   "name": "Adaptive Nanoprobes",
-  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
   "uniques": ["[+20]% Strength <when defending> <vs [Ranged] units>", "[+20]% Strength <when defending> <vs [Melee] units"], 
   "prerequisites": ["Borg Drone"]
 },
   {
   "name": "Adaptive Shielding",
   "uniques": ["[+40]% Strength <when defending> <vs [Ranged] units>", "[+30]% Strength <when defending> <vs [Melee] units>"],
-  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
   "prerequisites": ["Adaptive Nanoprobes"]
 },
     {
   "name": "Medical Drones",
   "uniques": ["Unit will heal every turn, even if it performs an action"],
-  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
   "prerequisites": ["Adaptive Shielding"]
 },
   {
     "name": "Medical Drones II",
     "uniques": ["[+10] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
-    "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+    "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
     "prerequisites": ["Medical Drones"]
   },
   {
   "name": "Assimilation Procedures",
   "uniques": ["[+30]% Strength <when attacking>"],
-  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
   "prerequisites": ["Borg Drone"]
 },
 {
   "name": "Collective Network",
   "uniques": ["[+25]% Strength <when attacking>"],
-  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
   "prerequisites": ["Assimilation Procedures"]
 },
 {
   "name": "Resistance Is Futile",
   "uniques": ["[-15]% Strength for enemy [Military] units in adjacent [All] tiles"],
-  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
   "prerequisites": ["Collective Network"]
 },
  {
   "name": "Quick Reload",
   "uniques": ["[1] additional attacks per turn"],
-  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine","Tactical Drone"],
+  "unitTypes": ["Melee","Ranged","Armored","Melee Water","Ranged Water","Submarine"],
   "prerequisites": ["Resistance Is Futile"]
 }
 ]
