@@ -49,7 +49,10 @@ UnitPromotionIcons/Resistance Is Futile
   orig: 77, 79
   offset: 0, 0
   index: -1
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-UnitIcons/Tactical Drone
+UnitIcons/Tactical Drone 
+  rotate: false
+  xy: 322, 3
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
